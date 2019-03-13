@@ -133,7 +133,8 @@ static struct bbdevice bbdevices[] = {
 //    {"iPhone9,3", 1421084145},
 //    {"iPhone9,4", 1421084145},
     {"iPhone10,1", 2315222105},
-    
+    {"iPhone11,6", 0},
+    {"iPhone11,4", 0},
     {"iPad1,1", 0},
     {"iPad2,1", 0},
     {"iPad2,2", 257},
